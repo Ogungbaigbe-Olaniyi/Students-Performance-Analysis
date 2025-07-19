@@ -26,9 +26,9 @@ This Project analyzes students academic performance based on multiple factors su
 - plot bar chart, columen chart using the pivot tables
 - Run corellation and regression analysis to view matrix and regression model
 - Build interactive dashboard using excel and power BI
-### Analysis Files included
+### Analysis Files included:
 - Dataset: The data used for the analysis
-- 📊 Regression Statistics
+#### 📊 Regression Statistics
 | Statistic              | Value   |
 |------------------------|---------|
 | R-squared              | 0.9107  |
@@ -37,7 +37,7 @@ This Project analyzes students academic performance based on multiple factors su
 | F-statistic p-value    | 0.0000  |
 | Number of observations | 30.0000 
 
-- 📉 Regression Analysis Summary
+####📉 Regression Analysis Summary
 | Predictor        | Coefficient | p-value | Statistically Significant? |
 |------------------|-------------|---------|-----------------------------|
 | **ATTENDANCE**   | +0.29       | 0.002   | ✅ Yes                      |
