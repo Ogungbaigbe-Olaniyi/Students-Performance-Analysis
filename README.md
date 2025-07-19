@@ -27,7 +27,9 @@ This Project analyzes students academic performance based on multiple factors su
 - Run corellation and regression analysis to view matrix and regression model
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included:
-- Dataset: The data used for the analysis
+
+<pre><code>#### 📄 Dataset Preview (Plain Text) ```text NAME AGE ATTENDANCE EXAM SCORE VIDEO GAMES TUTION HEALTH STRESS DAILY WORK SELF STUDY Raju 18 100.0 89.0 0.5 yes GOOD LOW SATISFACTORY 4.0 Bheem 19 90.0 95.0 0.5 yes GOOD LOW SATISFACTORY 5.0 Vignesh 22 90.0 96.0 0.5 yes GOOD LOW SATISFACTORY 5.0 Arun 18 80.0 73.0 2.0 no BAD MODERATE BELOW AVERAGE 2.0 Ankush 20 100.0 97.0 0.5 yes GOOD LOW SATISFACTORY 5.0 ``` </code></pre>
+
 #### 📊 Regression Statistics
 | Statistic              | Value   |
 |------------------------|---------|
@@ -37,7 +39,7 @@ This Project analyzes students academic performance based on multiple factors su
 | F-statistic p-value    | 0.0000  |
 | Number of observations | 30.0000 
 
-####📉 Regression Analysis Summary
+#### 📉 Regression Analysis Summary
 | Predictor        | Coefficient | p-value | Statistically Significant? |
 |------------------|-------------|---------|-----------------------------|
 | **ATTENDANCE**   | +0.29       | 0.002   | ✅ Yes                      |
