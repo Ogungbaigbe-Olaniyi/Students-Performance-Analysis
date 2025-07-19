@@ -28,6 +28,14 @@ This Project analyzes students academic performance based on multiple factors su
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included
 - Dataset: The data used for the analysis
+### 📄 Dataset Preview (Plain Text)
+NAME     AGE  ATTENDANCE  EXAM SCORE  VIDEO GAMES  TUTION  HEALTH   STRESS     DAILY WORK     SELF STUDY
+Raju      18        100.0        89.0          0.5     yes     GOOD       LOW   SATISFACTORY           4.0
+Bheem     19         90.0        95.0          0.5     yes     GOOD       LOW   SATISFACTORY           5.0
+Vignesh   22         90.0        96.0          0.5     yes     GOOD       LOW   SATISFACTORY           5.0
+Arun      18         80.0        73.0          2.0      no      BAD  MODERATE  BELOW AVERAGE           2.0
+Ankush    20        100.0        97.0          0.5     yes     GOOD       LOW   SATISFACTORY
+
 - The dataset used in this analysis contains information on students' academic and lifestyle variables.  
 - Dashboard: Power BI interactive dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
 - coreelation heat map
