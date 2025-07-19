@@ -28,6 +28,9 @@ This Project analyzes students academic performance based on multiple factors su
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included
 - Dataset: The data used for the analysis
+
+- https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/Dataset.xlsx
+
 - Dashboard: Power BI interactive dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
 - coreelation heat map
 ### Key Insights or Findings
