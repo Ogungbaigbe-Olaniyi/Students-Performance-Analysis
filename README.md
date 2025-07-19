@@ -2,7 +2,7 @@
 ## Project overview
 This Project analyzes students academic performance based on multiple factors such as study hours, health status, tuition, videogames usage, attendance, and stress level. The goal is to identify the top factors influencing exam scores using excel, Power BI, Corellation and regression analysis. Dataset was obtained from kaggle.com 
 ### Tools and Technology used
-- Microsoft excel(pivot tables, charts , Dashboard, Regression analysis)
+- Microsoft excel (pivot tables, charts , Dashboard, Regression analysis)
 - Power BI ( Data modelling, visualization)
 ### Files included
 - Dataset: The data used for the analysis
