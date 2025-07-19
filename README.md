@@ -26,7 +26,7 @@
 - plot bar chart, columen chart using the pivot tables
 - Run corellation and regression analysis to view matrix and regression model
 - Build interactive dashboard using excel and power BIs
-These steps will help replicate the analysis and verify the findings
+- These steps will help replicate the analysis and verify the findings
 ## Analysis Files included:
 ### Dataset in csv format and xlsx format
 
