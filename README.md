@@ -42,6 +42,6 @@ Conclusively, the top three factors impacting the student performamce are:
 - Self study
 - Attendance
 - Video games
-#### Contact
+### Contact
 **Ogungbaigbe Olaniyi Olusola**
 email: solay2k8@yahoo.com
