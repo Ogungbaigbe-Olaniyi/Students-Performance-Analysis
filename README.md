@@ -28,15 +28,15 @@ This Project analyzes students academic performance based on multiple factors su
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included
 - Dataset: The data used for the analysis
-- 🔢 Regression Coefficients
+## 🔢 Regression Coefficients
 | Predictor        | Coefficient | Interpretation                                                                 | p-value | Statistically Significant? |
 |------------------|-------------|----------------------------------------------------------------------------------|---------|-----------------------------|
 | **ATTENDANCE**   | +0.29       | Each 1% increase in attendance increases exam score by 0.29 points              | 0.002   | ✅ Yes                      |
 | **VIDEO GAMES**  | +4.47       | Each additional hour of gaming increases score by 4.47 points (unexpected)      | 0.135   | ❌ No                       |
 | **TUTION**       | -4.53       | Students who pay tuition scored 4.53 points lower on average                    | 0.213   | ❌ No                       |
 | **SELF STUDY**   | +6.46       | Each extra hour of self-study increases exam score by 6.46 points               | 0.000   | ✅ Yes                      |
-| **HEALTH (GOOD)**| +10.69      | Students with good health scored about 10.69 points higher than others          | 0.062   | ⚠️ Borderline  
-|
+| **HEALTH (GOOD)**| +10.69      | Students with good health scored about 10.69 points higher than others          | 0.062   | ⚠️ Borderline               |
+
 - Dashboard: Power BI dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
 - coreelation heat map
 ### Key Insights or Findings
