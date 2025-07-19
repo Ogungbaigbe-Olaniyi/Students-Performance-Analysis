@@ -28,10 +28,7 @@ This Project analyzes students academic performance based on multiple factors su
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included
 - Dataset: The data used for the analysis
-# 📉 Regression Analysis
-
-This regression model examines how various factors impact students' exam scores. The predictors include attendance, video games, tuition, self-study hours, and health status.
-### 🔢 Regression Coefficients
+- 🔢 Regression Coefficients
 | Predictor        | Coefficient | Interpretation                                                                 | p-value | Statistically Significant? |
 |------------------|-------------|----------------------------------------------------------------------------------|---------|-----------------------------|
 | **ATTENDANCE**   | +0.29       | Each 1% increase in attendance increases exam score by 0.29 points              | 0.002   | ✅ Yes                      |
