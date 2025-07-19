@@ -30,7 +30,7 @@ This Project analyzes students academic performance based on multiple factors su
 - Dataset: The data used for the analysis
 - Dashboard: Power BI interactive dashboard showing charts, key metrics, regression coefficint table, regression plot and scatter plot
 - coreelation heat map
-##### Key Insights or findings
+##### Key Insights or Findings
 - Regression analysis shows the model expain 91.1% of variation in exam score as can be seen in the R squared value and 89.2% for the number of predictors and indicated by the adjusted R squared
 - The significant F shows the model is overall statistically relevant
 - students with higher self study hours and attendance score better
