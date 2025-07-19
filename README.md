@@ -28,16 +28,19 @@ This Project analyzes students academic performance based on multiple factors su
 - Build interactive dashboard using excel and power BI
 ### Analysis Files included
 - Dataset: The data used for the analysis
-### 📄 Dataset Preview (Plain Text)
-NAME     AGE  ATTENDANCE  EXAM SCORE  VIDEO GAMES  TUTION  HEALTH   STRESS     DAILY WORK     SELF STUDY
-Raju      18        100.0        89.0          0.5     yes     GOOD       LOW   SATISFACTORY           4.0
-Bheem     19         90.0        95.0          0.5     yes     GOOD       LOW   SATISFACTORY           5.0
-Vignesh   22         90.0        96.0          0.5     yes     GOOD       LOW   SATISFACTORY           5.0
-Arun      18         80.0        73.0          2.0      no      BAD  MODERATE  BELOW AVERAGE           2.0
-Ankush    20        100.0        97.0          0.5     yes     GOOD       LOW   SATISFACTORY
+# 📉 Regression Analysis
 
-- The dataset used in this analysis contains information on students' academic and lifestyle variables.  
-- Dashboard: Power BI interactive dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
+This regression model examines how various factors impact students' exam scores. The predictors include attendance, video games, tuition, self-study hours, and health status.
+### 🔢 Regression Coefficients
+| Predictor        | Coefficient | Interpretation                                                                 | p-value | Statistically Significant? |
+|------------------|-------------|----------------------------------------------------------------------------------|---------|-----------------------------|
+| **ATTENDANCE**   | +0.29       | Each 1% increase in attendance increases exam score by 0.29 points              | 0.002   | ✅ Yes                      |
+| **VIDEO GAMES**  | +4.47       | Each additional hour of gaming increases score by 4.47 points (unexpected)      | 0.135   | ❌ No                       |
+| **TUTION**       | -4.53       | Students who pay tuition scored 4.53 points lower on average                    | 0.213   | ❌ No                       |
+| **SELF STUDY**   | +6.46       | Each extra hour of self-study increases exam score by 6.46 points               | 0.000   | ✅ Yes                      |
+| **HEALTH (GOOD)**| +10.69      | Students with good health scored about 10.69 points higher than others          | 0.062   | ⚠️ Borderline  
+|
+- Dashboard: Power BI dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
 - coreelation heat map
 ### Key Insights or Findings
 - Regression analysis shows the model expain 91.1% of variation in exam score as can be seen in the R squared value and 89.2% for the number of predictors and indicated by the adjusted R squared
