@@ -29,7 +29,6 @@ This Project analyzes students academic performance based on multiple factors su
 ### Analysis Files included
 - Dataset: The data used for the analysis
 - The dataset used in this analysis contains information on students' academic and lifestyle variables.  
-🔗 **[Download Dataset.xlsx](https://github.com/your-username/your-repo-name/raw/main/Dataset.xlsx)**
 - Dashboard: Power BI interactive dashboard showing charts, key metrics, regression coefficient table, regression plot and scatter plot
 - coreelation heat map
 ### Key Insights or Findings
