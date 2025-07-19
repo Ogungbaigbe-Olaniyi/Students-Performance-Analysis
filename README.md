@@ -45,6 +45,9 @@ This Project analyzes students academic performance based on multiple factors su
 | **TUTION**       | -4.53       | 0.213   | ❌ No                       |
 | **SELF STUDY**   | +6.46       | 0.000   | ✅ Yes                      |
 | **HEALTH (GOOD)**| +10.69      | 0.062   | ⚠️ Borderline               |
+### Corellatiom matrix and heat map 
+
+### Power BI dashboard
 
 ### Key Insights or Findings
 - Regression analysis shows the model expain 91.1% of variation in exam score as can be seen in the R squared value and 89.2% for the number of predictors and indicated by the adjusted R squared
