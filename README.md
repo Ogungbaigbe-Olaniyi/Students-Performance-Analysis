@@ -71,7 +71,7 @@ Conclusively, the top three factors impacting the student performamce are:
 Based on the analysis result, the following are the recommendations which can mitigate the reasons for low performance / score
 1. Encourage more self study among the students
 2. Advicing students to reduce video games time or stop games playing before exams
-3. Intoduction of busrsary for indigent students or student with fnancial stress
+3. Intoduction of busrsary for indigent students or student with financial stress
 4. Making lecture hours or period flexible to reduce stress
 ## Contact
 **Ogungbaigbe Olaniyi Olusola**
