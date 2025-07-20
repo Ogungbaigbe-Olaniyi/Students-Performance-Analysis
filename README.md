@@ -52,7 +52,7 @@
 | **HEALTH (GOOD)**| +10.69      | 0.062   | ⚠️ Borderline               |
 
 ### Corellatiom matrix and heat map 
-
+![correlation heatmap](https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/Correlation%20heat%20map.PNG?raw=true)
 ### Power BI dashboard
 
 ## Key Insights or Findings
