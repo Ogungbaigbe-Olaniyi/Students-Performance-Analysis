@@ -55,6 +55,7 @@
 ![correlation heatmap](https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/Correlation%20heat%20map.PNG?raw=true)
 ### Power BI dashboard
 ![dashboard](https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/dashboard.PNG?raw=true)
+![dashboard2](https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/Dashboard%202.PNG?raw=true)
 ## Key Insights or Findings
 - Regression analysis shows the model expain 91.1% of variation in exam score as can be seen in the R squared value and 89.2% for the number of predictors and indicated by the adjusted R squared
 - The significant F shows the model is overall statistically relevant
