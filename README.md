@@ -59,7 +59,7 @@
 - Regression analysis shows the model expain 91.1% of variation in exam score as can be seen in the R squared value and 89.2% for the number of predictors and indicated by the adjusted R squared
 - The significant F shows the model is overall statistically relevant
 - students with higher self study hours and attendance score better
-- excessive video gaming negatively impacted performance
+- excessive video gaming negatively impacted performance as can be seen form the correlation aanalysis
 - Stress level and health status has moderate efffect on scores
 - Tuition has a slight negative coefficients in the regression model
 ## Conclusion
@@ -69,7 +69,7 @@ Conclusively, the top three factors impacting the student performamce are:
 - Video games
 ## Recommendation 
 Based on the analysis result, the following are the recommendations which can mitigate the reasons for low performance / score
-1. Encourage more self study among the students
+1. Encourage and emphasize more self study and regular attendance among the students
 2. Advicing students to reduce video games time or stop games playing before exams
 3. Intoduction of busrsary for indigent students or student with financial stress
 4. Making lecture hours or period flexible to reduce stress
