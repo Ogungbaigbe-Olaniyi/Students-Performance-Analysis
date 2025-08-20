@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/Ogungbaigbe-Olaniyi/Students-Performance-Analysis/blob/main/download.jpg?raw=true)
 ## Project overview
-- This Project analyzes students academic performance based on multiple factors such as study hours, health status, tuition, video games usage, attendance, and stress level. The goal is to identify the top factors influencing exam scores. Dataset was obtained from kaggle.com 
+- This Project analyzes students academic performance based on multiple factors such as study hours, health status, tuition, video games usage, attendance, and stress level. The goal is to identify the top factors influencing exam scores and students performance. Dataset was obtained from kaggle.com 
 ## Tools used
 - Microsoft excel (pivot tables, charts , Dashboard, Regression analysis, corellation analysis)
 - Power BI ( Data modelling, visualization)
