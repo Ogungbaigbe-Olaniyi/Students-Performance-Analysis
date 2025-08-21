@@ -70,7 +70,7 @@ Conclusively, the top three factors impacting the student performamce are:
 - Attendance
 - Video games
 ## Recommendation 
-Based on the analysis result, the following are the recommendations which can mitigate the reasons for low performance / score
+Based on the analysis result,the following are the recommendations which can mitigate the reasons for low performance / score
 1. Encourage and emphasize more self study and regular attendance among the students
 2. Advicing students to reduce video games time or stop games playing before exams
 3. Intoduction of busrsary for indigent students or student with financial stress
